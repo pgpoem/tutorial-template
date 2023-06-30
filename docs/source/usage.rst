@@ -32,5 +32,7 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+中文测试
+----------------
+这是中文测试
 
-.. autofunction:: lumache.get_random_ingredients
